@@ -2,6 +2,9 @@
 
 > BlazingChat is a fullstack realtime chat app using Asp.Net Core Blazor Web Assembly (WASM) and SignalR Core with SQL Server and EF Core - .Net 6
 
+https://github.com/gtechsltn/BlazingBlog
+
+https://github.com/gtechsltn/BlazingChat
 
 ![BlazingChat](https://github.com/Abhayprince/BlazingChat/blob/master/Blazing-Chat-Final.png)
 
